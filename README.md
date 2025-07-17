@@ -28,10 +28,10 @@ A simple CRUD (Create, Read, Update, Delete) API for managing to-do items, built
    git clone https://github.com/yourusername/todo-api.git
    cd todo-api
 
-## 2. Download dependencies
+2. Download dependencies
 
-```bash
-go mod tidy
+    ```bash
+    go mod tidy
 
 ## 🔗 API Endpoints
 
